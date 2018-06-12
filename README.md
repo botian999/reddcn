@@ -10,7 +10,7 @@ disclosure](http://www.reddit.com/wiki/whitehat) and e-mail
 security@reddit.com.
 
 ---
-
+********************************************************************************************************************************************
 ### API
 
 For notices about reddit API changes and discussion of reddit API client development, subscribe to the [/r/redditdev](http://www.reddit.com/r/redditdev) and [/r/changelog](http://www.reddit.com/r/changelog) subreddits.
